@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-[![Linkedin: miguel-malo](https://img.shields.io/badge/-miguelmalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-malo/)](www.linkedin.com/in/miguel-malo)
+[![Linkedin: miguel-malo](https://img.shields.io/badge/-miguelmalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-malo/)](https://www.linkedin.com/in/miguel-malo)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/miguelmalo12)
 
 
@@ -24,7 +24,7 @@ const miguel = {
   code: [HTML, CSS, JavaScript, Node],
   tools: [React, React Native, Express, Tailwind, SASS, Bootstrap],
   databases: ["MySQL"],
-  currentChallenge: "Working on SubsTracker, The Smart Way to Manage Subscriptions"
+  currentChallenge: "Diving into Next.js and React Server Components"
 }
 ```
 
