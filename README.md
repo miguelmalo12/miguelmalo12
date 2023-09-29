@@ -4,7 +4,7 @@
   <tr></tr>
   <tr>
     <td>
-      <em>Head of UI & Graphic Design at <a href="http://snowstormtech.com">Snowstorm Technologies</a></em>
+      <em>Head of UI & Design / Frontend Developer at <a href="http://snowstormtech.com">Snowstorm Technologies</a></em>
     </td>
     <td>
       <img src="https://media.giphy.com/media/cdJwQTnlm0jvY2NHe2/giphy.gif" width="50" alt="Snowstorm Technologies Logo">
@@ -20,11 +20,21 @@
 
 ```javascript
 const miguel = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, JavaScript, Node],
-  tools: [React, React Native, Express, Tailwind, SASS, Bootstrap],
-  databases: ["MySQL"],
-  currentChallenge: "Diving into Next.js and React Server Components"
+  name: "Miguel Malo",
+  code: ["HTML", "CSS", "JavaScript", "Node"],
+  tools: ["React", "React Native", "Express", "Tailwind", "SASS", "Bootstrap"],
+  databases: ["MySQL", "PostgreSQL"],
+  currentChallenge: "Diving into Next.js and React Server Components",
+  notableProjects: {
+      subsTracker: {
+        name: "SubsTracker",
+        url: "https://substrackerapp.com"
+      },
+      caesarsPackage: {
+        name: "Caesars Package Solution",
+        url: "https://www.caesars.com/flights-hotels/book"
+      },
+  }
 }
 ```
 
@@ -32,12 +42,12 @@ const miguel = {
 ---
 
 - 🔭 I’m currently leading UI & Digital Design at Snowstorm Technologies.
-- 🌱 I’m currently studying Software Engineering at BrainStation.
-- 👯 I’m looking to collaborate on open-source projects related to front-end development.
+- 👨🏻‍💻 Also serving as a Frontend Developer at Snowstorm Technologies.
+- 🎓 Recently graduated from Software Engineering at BrainStation.
+- 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about UI/UX and front-end development.
 - 📫 How to reach me: www.linkedin.com/in/miguel-malo
 - ⚡ Fun fact: I enjoy outdoor activities and sports in my free time.
-- 🏃‍♂️ Why did the developer stay with Next.js? Because it was always one step ahead!
 - 🎨 "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
 
