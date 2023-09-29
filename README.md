@@ -4,7 +4,8 @@
   <tr></tr>
   <tr>
     <td>
-      <em>Head of UI & Design / Frontend Developer at <a href="http://snowstormtech.com">Snowstorm Technologies</a></em>
+      <span>Head of UI & Design / Frontend Developer</span><br>
+      <em>at <a href="http://snowstormtech.com">Snowstorm Technologies</a></em>
     </td>
     <td>
       <img src="https://media.giphy.com/media/cdJwQTnlm0jvY2NHe2/giphy.gif" width="50" alt="Snowstorm Technologies Logo">
