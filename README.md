@@ -13,8 +13,8 @@
   </tr>
 </table>
 
+[![MyWebsite](https://img.shields.io/badge/-MyWebsite-red?style=flat-square&logo=googlechrome&logoColor=white&link=https://miguelmalo.website)](https://miguelmalo.website)
 [![Linkedin: miguel-malo](https://img.shields.io/badge/-miguelmalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-malo/)](https://www.linkedin.com/in/miguel-malo)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/miguelmalo12)
 
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> A little more about me...  
@@ -22,20 +22,14 @@
 ```javascript
 const miguel = {
   name: "Miguel Malo",
-  code: ["HTML", "CSS", "JavaScript", "Node"],
-  tools: ["React", "React Native", "Express", "Tailwind", "SASS", "Bootstrap"],
+  code: ["HTML", "CSS", "JavaScript", "PHP", "Node"],
+  tools: [
+    "React", "React Native", "Laravel", "Express",
+    "Tailwind", "SASS", "Bootstrap"
+  ],
   databases: ["MySQL", "PostgreSQL"],
   currentChallenge: "Diving into Next.js and React Server Components",
-  notableProjects: {
-      subsTracker: {
-        name: "SubsTracker",
-        url: "https://substrackerapp.com"
-      },
-      caesarsPackage: {
-        name: "Caesars Package Solution",
-        url: "https://www.caesars.com/flights-hotels/book"
-      },
-  }
+  notableProjects: "https://miguelmalo.website/projects",
 }
 ```
 
@@ -44,7 +38,7 @@ const miguel = {
 
 - 🔭 I’m currently leading UI & Digital Design at Snowstorm Technologies.
 - 👨🏻‍💻 Also serving as a Frontend Developer at Snowstorm Technologies.
-- 🎓 Recently graduated from Software Engineering at BrainStation.
+- 🎓 Software Engineering graduate at BrainStation.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about UI/UX and front-end development.
 - 📫 How to reach me: www.linkedin.com/in/miguel-malo
